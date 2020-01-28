@@ -1,0 +1,21 @@
+{
+    "type": "panel",
+    "name": "Sandbox",
+    "id": "beebryte-sandbox-panel",
+    "info": {
+        "description": "Just a place for experimenting stuff in Grafana",
+        "author": {
+            "name": "NERSESIAN Robert",
+            "url": "https://beebryte.com"
+        },
+        "keywords": ["React", "Image", "sandbox", "Panel"],
+        "links": [],
+        "screenshots": [],
+        "version": "0.0.1",
+        "updated": "2019-05-09"
+    },
+    "dependencies": {
+        "grafanaVersion": "6.x.x",
+        "plugins": []
+    }
+}
